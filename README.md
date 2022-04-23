@@ -1,4 +1,4 @@
-# Expressive-FastSpeech2 - PyTorch Implementation for Emotions & Tones & Grammar
+# Expressive-FastSpeech2 - PyTorch Implementation for Emotions & Tones & Grammar (Only Test)
 
 ## Contributions
 
